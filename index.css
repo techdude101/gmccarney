@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0.8em;
+}
+
+#main-image {
+  width: 150px;
+  margin: 1rem;
+}
+
+#poem-content {
+  line-height: 1.5;
+  font-size: 1.1rem;
+  text-wrap: wrap;
+}
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
