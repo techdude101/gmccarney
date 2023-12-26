@@ -1,6 +1,6 @@
 window.onload = (event) => {
   var client = new XMLHttpRequest();
-  client.open('GET', '/assets/poems/gabriel.txt');
+  client.open('GET', 'assets/poems/gabriel.txt');
   
   
   client.onreadystatechange = function() {
